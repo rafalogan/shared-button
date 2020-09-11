@@ -1,6 +1,6 @@
 import EventHandler from './event-handler';
 
-export default class ShareButton {
+export default class ShareButtonComponent {
 	url: string;
 	eventHandler: EventHandler;
 
